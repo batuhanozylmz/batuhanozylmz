@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Merve Koçak</h1>
-<h5> · I graduated of Electronic Engineering from Gebze Technic University.</h5>
-<h5> · I attended the Data Analyst Training in the last months of 2022.</h5>
-<h5> · I worked as an assistant operational efficiency and analysis specialist. During this process, I created data analyzes with SQL coding.</h5>
+<h1 align="center">Hi 👋, I'm Batuhan ÖZYILMAZ</h1>
+<h5> · I graduated of Survey Engineering from Çanakkale Onkesiz Mart University.</h5>
+<h5> · I am currently BilgeAdam Boost FullStack Software Developer Training Program Participant.</h5>
 
 # <h3 align="center"> 🔭 I am currently a BilgeAdam Boost Full Stack Software Developer Training Program Participant.</h3>
 <h5 align="center">C# · Microsoft SQL Server · .NET Framework · Object-Oriented Programming (OOP) · Entity Framework · SOLID Design Principles · ADO.NET ·  HTML5 · CSS · JavaScript · .NET Core ·  ASP.NET · ASP.NET MVC · ASP.NET Web API</h5>
@@ -17,9 +16,9 @@
 
 # <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mervekocakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervekocakk" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/batuhan-özyilmaz-04389318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhanozylmz" height="30" width="40" /></a> 
 
-- 📫 How to reach me mervekoocak@gmail.com
+- 📫 How to reach me ozylmz.batuhan@gmail.com
 
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervekck&show_icons=true&locale=en&layout=compact" alt="mervekck" /></p>
