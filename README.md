@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batuhan ÖZYILMAZ</h1>
 <h5> · I graduated of Survey Engineering from Çanakkale Onkesiz Mart University.</h5>
-<h5> · I am currently BilgeAdam Boost FullStack Software Developer Training Program Participant.</h5>
+
 
 # <h3 align="center"> 🔭 I am currently a BilgeAdam Boost Full Stack Software Developer Training Program Participant.</h3>
 <h5 align="center">C# · Microsoft SQL Server · .NET Framework · Object-Oriented Programming (OOP) · Entity Framework · SOLID Design Principles · ADO.NET ·  HTML5 · CSS · JavaScript · .NET Core ·  ASP.NET · ASP.NET MVC · ASP.NET Web API</h5>
